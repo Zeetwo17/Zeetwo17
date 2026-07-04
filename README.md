@@ -7,7 +7,7 @@ I'm Zeetwo17 — I build ML models that range from "useful" to "why did I make t
 - 👯 I'm looking to collaborate on computer vision, NLP, and applied ML projects
 - 🤔 I'm looking for help with scaling training pipelines and squeezing more accuracy out of ensemble models
 - 💬 Ask me about transformers, damage detection CV, or recommendation systems
-- 📫 How to reach me: *(add your email / LinkedIn here)*
+- 📫 How to reach me: pandeyvishaljayshankar@gmail.com
 - ⚡ Fun fact: I once built an AI to judge car damage — turns out it's harder than judging my own driving
 
 ### 🛠️ Things I've built
