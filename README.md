@@ -1,36 +1,87 @@
 ## Hi there 👋
 
-I'm Zeetwo17 — I build ML models that range from "useful" to "why did I make this at 2am."
+I'm Zeetwo17 — AI/ML Engineer building research-grade models across predictive analytics, geospatial ML, and computer vision.
 
-- 🔭 I'm currently working on **PervoTransformer** — building and upgrading a transformer from scratch, and **Global_SSM**, an AI-driven soil moisture downscaling pipeline (XGBoost + Random Forest + PyTorch MLP)
-- 🌱 I'm currently learning transformer internals, RAG pipelines, and ensemble modeling for geospatial data
-- 👯 I'm looking to collaborate on computer vision, NLP, and applied ML projects
-- 🤔 I'm looking for help with scaling training pipelines and squeezing more accuracy out of ensemble models
-- 💬 Ask me about transformers, damage detection CV, or recommendation systems
-- 📫 How to reach me: pandeyvishaljayshankar@gmail.com
-- ⚡ Fun fact: I once built an AI to judge car damage — turns out it's harder than judging my own driving
+- 🏆 Top 150 (Top 2%) out of 7,000+ teams — TenzorX National AI Hackathon
+- 🏆 Top 5 out of 200,000+ participants — Hero ML Campus Challenge
+- 📄 Published research at MIGARS 2026 — Global Surface Soil Moisture Prediction
+- 📫 How to reach me: vishal1623@gmail.com
 
-### 🛠️ Things I've built
-- 🤖 **Transformers-Implementation** — transformer architecture from the ground up
-- 🌍 **Global_SSM** — AI-driven downscaling of surface soil moisture (9km → 100m) using an ensemble learning pipeline
-- 🚗 **Car-Damage-Detection-Hero-Campus-Challenge-Solution** — computer vision for automated car damage detection
+---
+
+### 🎯 Featured Projects
+
+#### 🔍 [CareerSight](https://github.com/Zeetwo17/careersight) — Research-Grade Career Success Predictor
+🏆 **Top 150 (Top 2%)** of 7,000+ teams — TenzorX National AI Hackathon
+🔗 **Live Demo:** [pandey-jee-careersight.hf.space](https://pandey-jee-careersight.hf.space/)
+
+A predictive engine for career outcome forecasting, built with the same rigor as production ML systems:
+
+- **Causal & Counterfactual Inference** — models the true impact of specific skills or academic choices, enabling "what-if" scenario generation
+- **Contextual Bandits** — reinforcement learning for adaptive, real-time career/resource recommendations
+- **Survival Analysis** — predicts time-to-hire and time-to-promotion milestones
+- **OOD & Drift Detection** — flags edge-case resumes and monitors shifting job market trends
+- **Model Calibration & Fairness** — mitigates algorithmic bias, calibrates confidence scores
+- **Federated Learning** — privacy-preserving training across distributed data
+- **Automated Parsing** — structured feature extraction from resumes and PDFs
+- **NIRF Integration** — weights academic prestige using National Institutional Ranking Framework metrics
+- **Peer Benchmarking** — computes competitive readiness against peer percentiles
+- Built on the **PlaceIQ APEX Elite Architecture**
+
+**Stack:** Python, Causal Inference, Reinforcement Learning, Federated Learning
+
+---
+
+#### 🌍 [Global_SSM](https://github.com/Zeetwo17/Global_SSM) — Global Surface Soil Moisture Prediction
+📄 **Published at MIGARS 2026**
+
+A satellite-based soil moisture inference pipeline achieving 100m spatial resolution:
+
+- **Earth Observation Ingestion** — Sentinel-1 radar data and SCAN dataset variables pulled via Google Earth Engine
+- **Spatial Modeling** — spatial MLP + stacking ensemble model for moisture estimation
+- **Explainable AI** — SHAP analysis mapping feature dependencies (day-of-year, 7-day rainfall metrics)
+- **High-Resolution Inference** — 100m-resolution predictions, focused on the Prayagraj region
+- **Independent Validation** — point-to-pixel framework cross-referencing predictions against ISMN India and 2024 SCAN ground-truth data
+
+**Stack:** Python, PyTorch, Google Earth Engine, SHAP, XGBoost
+
+---
+
+#### 🚗 [Car-Damage-Detection (CarDD)](https://github.com/Zeetwo17/Car-Damage-Detection-Hero-Campus-Challenge-Solution) — Multi-Modal Vehicle Inspection Pipeline
+🏆 **Top 5** of 200,000+ participants — Hero ML Campus Challenge
+
+A production-ready, multi-modal computer vision pipeline for automated vehicle inspection:
+
+- **Advanced Segmentation** — Mask2Former with custom backbone for pixel-level damage instance segmentation
+- **Multi-Modal VLM Fusion** — Vision-Language Models fuse image features with text embeddings for contextual reasoning
+- **Severity & Component Assessment** — dedicated severity classification and structural component identification
+- **Production Reliability** — explainability, uncertainty quantification, and rules-engine gating via a quality gate
+- **End-to-End Pipeline** — complete dataset handling, preprocessing, training, and inference scripts
+
+**Stack:** Python, Computer Vision, Vision-Language Models, Mask2Former
+
+---
+
+### 📂 Other Projects
+- 🤖 **Transformers-Implementation** — transformer architecture built from scratch
+- 📄 **Chat-with-Docs** & **Youtube-Video-Chatbot** — RAG-based document/video Q&A systems
 - 🎬 **Movie-Recommendation-System** & **Reco-MovieLens-1M-keywords** — recommender systems on MovieLens
-- 📄 **Chat-with-Docs** & **Youtube-Video-Chatbot** — RAG-style chat interfaces over documents/video
-- 🎤 **Mock-Interview-Generator** — TypeScript AI interview practice tool
+- 🎤 **Mock-Interview-Generator** — AI-powered interview practice tool
 - 📡 **modulation-classifier** — signal modulation classification
-- 💼 **careersight**, **flowsight** & **redrob_ranker** — Python projects in progress
-- 🏃 **INDIA_RUNS** — proof that ML engineers touch grass sometimes
+- 💼 **flowsight** & **redrob_ranker** — Python projects in progress
+- 🌱 **GeekCamp-24-FOSS** — Git/GitHub fundamentals project (44 forks)
 
-### 🌱 Started here
-**GeekCamp-24-FOSS** — where I learned the basics of Git and GitHub (44 forks and counting on this one, not bad for a starter project 👀)
+---
 
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-blue?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-4285F4?style=flat-square&logo=google-earth&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### 📊 GitHub Stats
 <p align="left">
