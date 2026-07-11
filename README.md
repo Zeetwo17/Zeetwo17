@@ -2,9 +2,9 @@
 
 I'm Zeetwo17 — AI/ML Engineer building research-grade models across predictive analytics, geospatial ML, and computer vision.
 
-- 🏆 Top 150 (Top 2%) of 7,000+ teams — TenzorX National AI Hackathon
-- 🏆 Top 5 of 200,000+ participants — Hero ML Campus Challenge
-- 📄 Published research at MIGARS 2026 — Global Surface Soil Moisture Prediction
+- 🏆 **Top 150 (Top 2%)** of **7,000+ teams** — TenzorX National AI Hackathon
+- 🏆 **Top 5** of **200,000+ participants** — Hero ML Campus Challenge
+- 📄 **Published research** at MIGARS 2026 — Global Surface Soil Moisture Prediction
 - 📫 vishal1623@gmail.com
 
 ---
@@ -12,17 +12,17 @@ I'm Zeetwo17 — AI/ML Engineer building research-grade models across predictive
 ### 🎯 Featured Projects
 
 **🔍 [CareerSight](https://github.com/Zeetwo17/careersight)** — Research-grade career success predictor
-🏆 Top 2% (150/7,000+ teams), TenzorX Hackathon · 🔗 [Live Demo](https://pandey-jee-careersight.hf.space/)
+🏆 **Top 2%** (150/7,000+ teams), TenzorX Hackathon · 🔗 [Live Demo](https://pandey-jee-careersight.hf.space/)
 Causal inference, contextual bandits, and survival analysis for career outcome forecasting, with federated learning for privacy-preserving training and fairness-calibrated predictions.
 `Python` `Causal Inference` `Reinforcement Learning` `Federated Learning`
 
 **🌍 [Global_SSM](https://github.com/Zeetwo17/Global_SSM)** — Global surface soil moisture prediction
-📄 Published at MIGARS 2026
-Satellite-based inference pipeline using Sentinel-1 radar data (Google Earth Engine) and a spatial MLP + stacking ensemble to predict soil moisture at 100m resolution, validated against ISMN India ground-truth data.
+📄 **Published at MIGARS 2026**
+Satellite-based inference pipeline using Sentinel-1 radar data (Google Earth Engine) and a spatial MLP + stacking ensemble to predict soil moisture at **100m resolution**, validated against ISMN India ground-truth data.
 `Python` `PyTorch` `Google Earth Engine` `SHAP` `XGBoost`
 
 **🚗 [Car-Damage-Detection](https://github.com/Zeetwo17/Car-Damage-Detection-Hero-Campus-Challenge-Solution)** — Multi-modal vehicle inspection pipeline
-🏆 Top 5 of 200,000+ participants, Hero ML Campus Challenge
+🏆 **Top 5** of **200,000+ participants**, Hero ML Campus Challenge
 Mask2Former-based segmentation fused with Vision-Language Models for damage detection, severity classification, and component identification — production-ready with uncertainty quantification and a quality-gate reliability layer.
 `Python` `Computer Vision` `VLM` `Mask2Former`
 
