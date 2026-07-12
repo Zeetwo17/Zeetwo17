@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Zeetwo17 👋
+# Hi, I'm Vishal 👋
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+building+research-grade+models;Causal+Inference+%7C+Geospatial+ML+%7C+Computer+Vision" alt="Typing SVG" />
 
