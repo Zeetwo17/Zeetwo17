@@ -5,7 +5,7 @@ I'm Zeetwo17 — AI/ML Engineer building research-grade models across predictive
 - 🏆 **Top 150 (Top 2%)** of **7,000+ teams** — TenzorX National AI Hackathon
 - 🏆 **Top 5** of **200,000+ participants** — Hero ML Campus Challenge
 - 📄 **Published research** at MIGARS 2026 — Global Surface Soil Moisture Prediction
-- 📫 vishal1623@gmail.com
+- 📫 vishalpandey1623@gmail.com
 
 ---
 
